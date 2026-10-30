@@ -1,4 +1,4 @@
-# prova-poo
+# Prova POO
 
 - Eduardo Franco
 - Edson Fernando
